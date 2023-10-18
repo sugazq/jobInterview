@@ -11,8 +11,11 @@ bla bla bla
 ## 1.3. Branding
 
 Merk: Rstore
+
 Tagline: "Gaya Hidup dalam Satu Tempat"
-Campaign:  Tempat yang menggabungkan seluruh aspek gaya hidup Anda dalam satu tempat yang nyaman dan inspiratif. Kami yakin bahwa gaya hidup Anda adalah refleksi dari siapa Anda, dan kami siap membantu Anda menjalani hidup yang lebih baik dan berwarna. 
+
+Campaign:  Tempat yang menggabungkan seluruh aspek gaya hidup Anda dalam satu tempat yang nyaman dan inspiratif. Kami yakin bahwa gaya hidup Anda adalah refleksi dari siapa Anda, dan kami siap membantu Anda menjalani hidup yang lebih baik dan berwarna.
+
 Target user:
 Usia 12+
 Seorang yang senang up to date
