@@ -54,9 +54,11 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 
+```mermaid
 flowchart TD
     id1[(Database: MySQL)] --> id1[Aplikasi Web Backend: Javascript - Laravel] --> id1[Web Server: Javascript - Laravel]  
-    
+```
+
 ## 5. Teknologi, Library, dan Framework
 
 bla bla bla
