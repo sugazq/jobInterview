@@ -1,2 +1,2 @@
-# sugazq.github.io
+# PengenalanInformatika
 I HOPE IT WILL HELP YOU TO BECOME A PROGRAMMER
