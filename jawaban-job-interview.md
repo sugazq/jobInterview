@@ -1,6 +1,8 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Online shop semakin berkembang melalui internet bahkan sekarang segala sesuatu pun menjadi praktis. Melalui perubahan gaya hidup yang terjadi disini saya berinisiatif untuk membuat sebuah toko online/e-commerce yang bertujuann untuk mempermudah seseorang ketika ingin berbelanja. Bahkan dengan toko online kita tidak hanya mencakup daerah sekitar saja tetapi juga luar daerah bahkan mencakup internasional yang tentunya ini seharusnya lebih efektif untuk menyebarluaskan produk yang kita jual.
+
+Berbelanja secara online saat ini sudah menjadi trend modern yang dinikmati oleh sebagian besar masyarakat, karena mampu menarik dan menggoda bagi setiap masyarakat. Karena berbelanja tidak bisa lepas dari diri kehidupan kita, hampir tidak ada masyarakat yang tidak menyukai belanja, apalagi masyarakat modern yang sudah pasti kebanyakan memiliki internet. Hal ini yang menjadi alasan saya untuk membuat sebuah website e-commerce.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -12,9 +14,10 @@ bla bla bla
 
 ## 2. User Story
 
-bla | bla | bla | bla
+sebagai | saya ingin bisa | sehingga | Prioritas
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
