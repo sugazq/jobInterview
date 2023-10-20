@@ -7,10 +7,10 @@ Berbelanja secara online saat ini sudah menjadi trend modern yang dinikmati oleh
 ## 1.2. Deksripsi Teknologi Informasi
 
 Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi diantaranya :
-1. Database Mysql untuk melakukan pengelolaan data pada website yang saya buat
-2. Bagian Frontend saya menggunakan beberapa kombinasi seperti CSS, BOOTSTRAP, dan JAVASCRIPT
-3. Bagian Backendnya saya menggunakan PHP dibarengi dengan frameworknya yaitu LARAVEL
-4. Untuk Design awal aplikasinya saya menggunakan FIGMA 
+1. Database menggunakan ***Mysql*** untuk melakukan pengelolaan data pada website yang saya buat,
+2. Bagian Frontend saya menggunakan beberapa kombinasi seperti ***CSS***, ***BOOTSTRAP***, dan ***JAVASCRIPT***,
+3. Bagian Backendnya saya menggunakan PHP dibarengi dengan frameworknya yaitu ***LARAVEL***,
+4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***. 
 
 ## 1.3. Branding
 
