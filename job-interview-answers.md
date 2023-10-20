@@ -1,10 +1,10 @@
-![My Products](https://github.com/sugazq/jobInterview/assets/115863742/819558e6-14d8-481f-a093-93ab2f1677a0)## 1.1 Latar Belakang
+# 1.1 Latar Belakang
 
 Online shop semakin berkembang melalui internet bahkan sekarang segala sesuatu pun menjadi praktis. Melalui perubahan gaya hidup yang terjadi disini saya berinisiatif untuk membuat sebuah toko online/e-commerce yang bertujuann untuk mempermudah seseorang ketika ingin berbelanja. Bahkan dengan toko online kita tidak hanya mencakup daerah sekitar saja tetapi juga luar daerah bahkan mencakup internasional yang tentunya ini seharusnya lebih efektif untuk menyebarluaskan produk yang kita jual.
 
 Berbelanja secara online saat ini sudah menjadi trend modern yang dinikmati oleh sebagian besar masyarakat, karena mampu menarik dan menggoda bagi setiap masyarakat. Karena berbelanja tidak bisa lepas dari diri kehidupan kita, hampir tidak ada masyarakat yang tidak menyukai belanja, apalagi masyarakat modern yang sudah pasti kebanyakan memiliki internet. Hal ini yang menjadi alasan saya untuk membuat sebuah website e-commerce.
 
-## 1.2. Deksripsi Teknologi Informasi
+# 1.2. Deksripsi Teknologi Informasi
 
 Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi diantaranya :
 1. Database menggunakan ***Mysql*** untuk melakukan pengelolaan data pada website yang saya buat,
@@ -13,7 +13,7 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***,
 5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***. 
 
-## 1.3. Branding
+# 1.3. Branding
 
 - Merk: Rstore
 - Tagline: "Gaya Hidup dalam Satu Tempat"
@@ -33,7 +33,7 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 
 
 
-## 2. User Story
+# 2. User Story
 
 sebagai | saya ingin bisa | sehingga | Prioritas
 ---|---|---|---
@@ -50,7 +50,7 @@ pengguna | mendapatkan notif pesanan | bisa mengetahui pesanan sudah diproses at
 pengguna | melihat reveiw produk | bisa melihat feedback dari yang sudah pernah pesan | ⭐⭐⭐
 
 
-## 3. Struktur Data
+# 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
@@ -60,30 +60,30 @@ erDiagram
     PEMBELI ||--|{ RUJAK : beli
 ```
 
-## 4. Arsitektur Sistem
+# 4. Arsitektur Sistem
 
 ```mermaid
 flowchart TD
     id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Javascript - Laravel] <--> id3[Web Server: Javascript - Laravel]  
 ```
 
-## 5. Teknologi, Library, dan Framework
+# 5. Teknologi, Library, dan Framework
 
 Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan dalam pemrograman saya menggunakan Framework Laravel
 
-## 6. Desain User Experience dan User Interface
+# 6. Desain User Experience dan User Interface
 
-# Design UI & UX Menggunakan Figma
-## Link Figma
+## Design UI & UX Menggunakan Figma
+### Link Figma
 > https://www.figma.com/file/3W3UI6PfdxKsZ4kcWn42hB/RStore?type=design&node-id=22%3A489&mode=design&t=1iLHJnMXjgig2YmL-1
 - **Landing Page**
-> ![Landing](https://github.com/sugazq/jobInterview/assets/115863742/3fdf0923-2d2c-4e58-8630-0a3c22be1972)
+    > ![Landing](https://github.com/sugazq/jobInterview/assets/115863742/3fdf0923-2d2c-4e58-8630-0a3c22be1972)
 - Sign **In**
-> ![Sign In](https://github.com/sugazq/jobInterview/assets/115863742/55ec2662-a3ea-4e03-9460-28f8802b07ee)
+    > ![Sign In](https://github.com/sugazq/jobInterview/assets/115863742/55ec2662-a3ea-4e03-9460-28f8802b07ee)
 - **Dashboard**
-> ![Dashboard](https://github.com/sugazq/jobInterview/assets/115863742/1b5e5688-dd0b-4bc6-9c2e-11502b301676)
+    > ![Dashboard](https://github.com/sugazq/jobInterview/assets/115863742/1b5e5688-dd0b-4bc6-9c2e-11502b301676)
 - **Admin Page**
-> ![My Products](https://github.com/sugazq/jobInterview/assets/115863742/0fa7648e-185e-4922-b863-2f71f9e9e013)
+    > ![My Products](https://github.com/sugazq/jobInterview/assets/115863742/0fa7648e-185e-4922-b863-2f71f9e9e013)
 
 
 
