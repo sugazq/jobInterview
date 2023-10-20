@@ -1,4 +1,4 @@
-## 1.1 Latar Belakang
+![My Products](https://github.com/sugazq/jobInterview/assets/115863742/819558e6-14d8-481f-a093-93ab2f1677a0)## 1.1 Latar Belakang
 
 Online shop semakin berkembang melalui internet bahkan sekarang segala sesuatu pun menjadi praktis. Melalui perubahan gaya hidup yang terjadi disini saya berinisiatif untuk membuat sebuah toko online/e-commerce yang bertujuann untuk mempermudah seseorang ketika ingin berbelanja. Bahkan dengan toko online kita tidak hanya mencakup daerah sekitar saja tetapi juga luar daerah bahkan mencakup internasional yang tentunya ini seharusnya lebih efektif untuk menyebarluaskan produk yang kita jual.
 
@@ -10,7 +10,8 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 1. Database menggunakan ***Mysql*** untuk melakukan pengelolaan data pada website yang saya buat,
 2. Bagian Frontend saya menggunakan beberapa kombinasi seperti ***CSS***, ***BOOTSTRAP***, dan ***JAVASCRIPT***,
 3. Bagian Backendnya saya menggunakan PHP dibarengi dengan frameworknya yaitu ***LARAVEL***,
-4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***. 
+4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***,
+5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***. 
 
 ## 1.3. Branding
 
@@ -68,12 +69,24 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan dalam pemrograman saya menggunakan Framework Laravel
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+# Design UI & UX Menggunakan Figma
+## Link Figma
+> https://www.figma.com/file/3W3UI6PfdxKsZ4kcWn42hB/RStore?type=design&node-id=22%3A489&mode=design&t=1iLHJnMXjgig2YmL-1
+- **Landing Page**
+> ![Landing](https://github.com/sugazq/jobInterview/assets/115863742/3fdf0923-2d2c-4e58-8630-0a3c22be1972)
+- Sign **In**
+> ![Sign In](https://github.com/sugazq/jobInterview/assets/115863742/55ec2662-a3ea-4e03-9460-28f8802b07ee)
+- **Dashboard**
+> ![Dashboard](https://github.com/sugazq/jobInterview/assets/115863742/1b5e5688-dd0b-4bc6-9c2e-11502b301676)
+- **Admin Page**
+> ![My Products](https://github.com/sugazq/jobInterview/assets/115863742/0fa7648e-185e-4922-b863-2f71f9e9e013)
+
+
+
 
 ## 7. Demonstrasi Video
 
