@@ -6,7 +6,11 @@ Berbelanja secara online saat ini sudah menjadi trend modern yang dinikmati oleh
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi diantaranya :
+1. Database Mysql untuk melakukan pengelolaan data pada website yang saya buat
+2. Bagian Frontend saya menggunakan beberapa kombinasi seperti CSS, BOOTSTRAP, dan JAVASCRIPT
+3. Bagian Backendnya saya menggunakan PHP dibarengi dengan frameworknya yaitu LARAVEL
+4. Untuk Design awal aplikasinya saya menggunakan FIGMA 
 
 ## 1.3. Branding
 
@@ -24,6 +28,9 @@ bla bla bla
     - Konten mudah terbaca
     - Profesionalisme
     - warna: warna putih memiliki kesan kesederhanaan dan bersih dibalut aksen biru juga dapat memberikan kesan kepercayaan kepada pengguna
+    - Inspirasi desain : ![Plant Shop Thumbnail](https://github.com/sugazq/jobInterview/assets/115863742/c86c80e6-201d-436b-bb14-3f4f9bd45a82)
+
+
 
 ## 2. User Story
 
