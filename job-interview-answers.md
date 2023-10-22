@@ -12,7 +12,6 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 3. Bagian Backendnya saya menggunakan ***PHP*** dibarengi dengan frameworknya yaitu ***LARAVEL***,
 4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***,
 5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***.
-6.  
 
 # 1.3. Branding
 
