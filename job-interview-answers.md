@@ -56,27 +56,17 @@ pengguna | melihat reveiw produk | bisa melihat feedback dari yang sudah pernah 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
+---
+title: Online Store
+---
 erDiagram
-    Product ||--o{ carts : -- save
-     {
-        int id
-        varchar name
-        int user_id
-        int price
-        text description
-        int categories_id
-    }
-    carts ||--|{ users : contains
-    ORDER {
-        int id
-        int products_id
-        int users_id
-    }
-    users ||--|{ transaction : payment {
-        int id
-        varchar quantity
-        float pricePerUnit
-    }
+    categories ||--o{ product_galeries : product
+    product_galeries ||--o{ product : view
+    product ||--o{ carts : places
+    carts ||--|{ user : save
+    user }|..|{ transaction : payment
+    transaction }|..|{ transaction_details : info
+    
 ```
 
 
