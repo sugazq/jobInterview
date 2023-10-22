@@ -8,10 +8,11 @@ Berbelanja secara online saat ini sudah menjadi trend modern yang dinikmati oleh
 
 Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi diantaranya :
 1. Database menggunakan ***Mysql*** untuk melakukan pengelolaan data pada website yang saya buat,
-2. Bagian Frontend saya menggunakan beberapa kombinasi seperti ***CSS***, ***BOOTSTRAP***, dan ***JAVASCRIPT***,
-3. Bagian Backendnya saya menggunakan PHP dibarengi dengan frameworknya yaitu ***LARAVEL***,
+2. Bagian Frontend saya menggunakan beberapa kombinasi seperti ***CSS***, ***BOOTSTRAP***, dan ***JAVASCRIPT***, ***Vue JS***
+3. Bagian Backendnya saya menggunakan ***PHP*** dibarengi dengan frameworknya yaitu ***LARAVEL***,
 4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***,
-5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***. 
+5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***.
+6.  
 
 # 1.3. Branding
 
@@ -56,8 +57,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    products ||--o{ user : 
+    product_galeries ||--|{ carts : 
 ```
 
 # 4. Arsitektur Sistem
@@ -69,7 +70,7 @@ flowchart TD
 
 # 5. Teknologi, Library, dan Framework
 
-Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan dalam pemrograman saya menggunakan Framework Laravel
+Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
 
 # 6. Desain User Experience dan User Interface
 
