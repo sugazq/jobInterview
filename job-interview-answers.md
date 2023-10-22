@@ -11,7 +11,8 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 2. Bagian Frontend saya menggunakan beberapa kombinasi seperti ***CSS***, ***BOOTSTRAP***, dan ***JAVASCRIPT***, ***Vue JS***
 3. Bagian Backendnya saya menggunakan ***PHP*** dibarengi dengan frameworknya yaitu ***LARAVEL***,
 4. Untuk Design awal aplikasinya saya menggunakan ***FIGMA***,
-5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***.
+5. Untuk Membuat programnya saya menggunakan aplikasi ***Visual Studio Code***,
+6. Operasi ***OS*** menggunakan ***Linux***
 
 # 1.3. Branding
 
@@ -56,20 +57,24 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
-        string name
-        string custNumber
-        string sector
+    Product ||--o{ carts : -- save
+     {
+        int id
+        varchar name
+        int user_id
+        int price
+        text description
+        int categories_id
     }
-    ORDER ||--|{ LINE-ITEM : contains
+    carts ||--|{ users : contains
     ORDER {
-        int orderNumber
-        string deliveryAddress
+        int id
+        int products_id
+        int users_id
     }
-    LINE-ITEM {
-        string productCode
-        int quantity
+    users ||--|{ transaction : payment {
+        int id
+        varchar quantity
         float pricePerUnit
     }
 ```
