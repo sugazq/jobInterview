@@ -72,6 +72,8 @@ erDiagram
         int quantity
         float pricePerUnit
     }
+```
+
 
 # 4. Arsitektur Sistem
 
