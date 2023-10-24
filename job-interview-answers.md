@@ -60,7 +60,11 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 title: Online Store
 ---
 erDiagram
-    categories ||--o{ product_galeries : product
+    categories ||--o{ product_galeries : product {
+        string name
+        string custNumber
+        string sector
+}
     product_galeries ||--o{ product : view
     product ||--o{ carts : places
     carts ||--|{ user : save
