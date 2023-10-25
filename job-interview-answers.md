@@ -64,26 +64,22 @@ erDiagram
         int id
         varchar nama
         varchar slug
-}
-    produk_galeri ||--o{ product : view produk_galeri {
+} produk_galeri ||--o{ product : view produk_galeri {
         int id
         varchar photo
         int produk_id
-}
-    produk ||--o{ carts : places produk {
+} produk ||--o{ carts : places produk {
         int id
         varchar nama
         int users_id
         int harga
         text deskripsi
         int kategori_id
-}
-    keranjang ||--|{ user : save keranjang {
+} keranjang ||--|{ user : save keranjang {
         int id
         int produk_id
         int users_id
-}
-    pengguna ||..|{ transaction : payment pengguna {
+} pengguna ||..|{ transaction : payment pengguna {
         int id
         varchar nama
         varchar email
@@ -98,8 +94,7 @@ erDiagram
         varchar nama_toko
         int kategori_id
         int status_toko
-}
-    transaction }|..|{ transaction_details : info
+} transaction }|..|{ transaction_details : info
     
 ```
 
