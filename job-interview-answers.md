@@ -31,6 +31,9 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
     - Profesionalisme
     - warna: warna putih memiliki kesan kesederhanaan dan bersih dibalut aksen biru juga dapat memberikan kesan kepercayaan kepada pengguna
     - Inspirasi desain : ![Plant Shop Thumbnail](https://github.com/sugazq/jobInterview/assets/115863742/c86c80e6-201d-436b-bb14-3f4f9bd45a82)
+    - - Inspirasi desain : ![Landing](https://github.com/sugazq/jobInterview/assets/115863742/8bb350e9-e23f-4a0a-bb93-1223df0dd253)
+
+
 
 
 
