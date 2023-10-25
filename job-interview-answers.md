@@ -67,18 +67,18 @@ erDiagram
 } produk_galeri ||--o{ produk : view produk_galeri {
         int id
         varchar photo
-        int produk_id
+        int produk_id, FK
 } produk ||--o{ keranjang : places produk {
         int id
         varchar nama
-        int users_id
+        int users_id, FK
         int harga
         text deskripsi
-        int kategori_id
+        int kategori_id, FK
 } keranjang ||--|{ pengguna : save keranjang {
         int id
-        int produk_id
-        int users_id
+        int produk_id, FK
+        int users_id, FK
 } pengguna ||..|{ transaksi : payment pengguna {
         int id
         varchar nama
@@ -92,22 +92,23 @@ erDiagram
         varchar negara
         varchar nomor_telepon
         varchar nama_toko
-        int kategori_id
+        int kategori_id, FK
         int status_toko
 } transaksi }|..|{ detail_transaksi : payment transaksi {
         int id
-        int users_id
+        int users_id, FK
         int harga_diskon
         int harga_pengiriman
         int total_harga
         varchar status_transaksi
         varchar resi
-} detail_transaksi : info detail_transaksi {
+} detail_transaksi {
         int id
-        int transaksi_id
-        int produk_id
-        int price
+        int transaksi_id, FK
+        int produk_id, FK
+        int harga
 }
+
     
 ```
 
