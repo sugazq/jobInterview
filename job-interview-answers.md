@@ -79,7 +79,7 @@ erDiagram
         int id
         int produk_id
         int users_id
-} pengguna ||..|{ transaksi : payment pengguna {
+} pengguna ||..|{ transaksi : procces pengguna {
         int id
         varchar nama
         varchar email
