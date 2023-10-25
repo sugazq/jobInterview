@@ -79,7 +79,7 @@ erDiagram
         int id
         int produk_id
         int users_id
-} pengguna ||..|{ transaction : payment pengguna {
+} pengguna ||..|{ transaksi : payment pengguna {
         int id
         varchar nama
         varchar email
@@ -94,7 +94,20 @@ erDiagram
         varchar nama_toko
         int kategori_id
         int status_toko
-} transaction }|..|{ transaction_details : info
+} transaksi }|..|{ detail_transaksi : payment transaksi {
+        int id
+        int users_id
+        int harga_diskon
+        int harga_pengiriman
+        int total_harga
+        varchar status_transaksi
+        varchar resi
+} detail_transaksi : info detail_transaksi {
+        int id
+        int transaksi_id
+        int produk_id
+        int price
+}
     
 ```
 
