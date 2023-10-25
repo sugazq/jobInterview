@@ -76,11 +76,11 @@ erDiagram
         text deskripsi
         int kategori_id FK
 } keranjang ||--|{ pengguna : save keranjang {
-        int id
-        int produk_id
-        int users_id
+        int id PK
+        int produk_id FK
+        int users_id FK
 } pengguna ||..|{ transaksi : procces pengguna {
-        int id
+        int id PK
         varchar nama
         varchar email
         varchar password
@@ -92,18 +92,18 @@ erDiagram
         varchar negara
         varchar nomor_telepon
         varchar nama_toko
-        int kategori_id
+        int kategori_id FK
         int status_toko
 } transaksi }|..|{ detail_transaksi : payment transaksi {
-        int id
-        int users_id
+        int id PK
+        int users_id FK
         int harga_diskon
         int harga_pengiriman
         int total_harga
         varchar status_transaksi
         varchar resi
 } detail_transaksi {
-        int id
+        int id PK
         int transaksi_id
         int produk_id
         int harga
