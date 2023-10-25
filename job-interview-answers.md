@@ -61,11 +61,11 @@ title: Online Store
 ---
 erDiagram
     kategori ||--o{ produk_galeri : produk kategori {
-        int id
+        int id PK
         varchar nama
         varchar slug
 } produk_galeri ||--o{ produk : view produk_galeri {
-        int id
+        int id PK
         varchar photo
         int produk_id
 } produk ||--o{ keranjang : places produk {
