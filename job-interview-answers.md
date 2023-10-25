@@ -60,15 +60,45 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 title: Online Store
 ---
 erDiagram
-    categories ||--o{ product_galeries : product categories {
-        string name
-        string custNumber
-        string sector
+    kategori ||--o{ product_galeries : product categories {
+        int id
+        varchar nama
+        varchar slug
 }
-    product_galeries ||--o{ product : view
-    product ||--o{ carts : places
-    carts ||--|{ user : save
-    user }|..|{ transaction : payment
+    produk_galeri ||--o{ product : view produk_galeri {
+        int id
+        varchar photo
+        int produk_id
+}
+    produk ||--o{ carts : places produk {
+        int id
+        varchar nama
+        int users_id
+        int harga
+        text deskripsi
+        int kategori_id
+}
+    keranjang ||--|{ user : save keranjang {
+        int id
+        int produk_id
+        int users_id
+}
+    pengguna ||..|{ transaction : payment pengguna {
+        int id
+        varchar nama
+        varchar email
+        varchar password
+        text alamat_1
+        text alamat_2
+        int provinsi_id
+        int kabupaten_id
+        int kode_pos
+        varchar negara
+        varchar nomor_telepon
+        varchar nama_toko
+        int kategori_id
+        int status_toko
+}
     transaction }|..|{ transaction_details : info
     
 ```
