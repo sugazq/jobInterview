@@ -69,12 +69,12 @@ erDiagram
         varchar photo
         int produk_id
 } produk ||--o{ keranjang : places produk {
-        int id
+        int id PK
         varchar nama
-        int users_id
+        int users_id FK
         int harga
         text deskripsi
-        int kategori_id
+        int kategori_id FK
 } keranjang ||--|{ pengguna : save keranjang {
         int id
         int produk_id
