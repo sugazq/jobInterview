@@ -254,19 +254,19 @@ flowchart TD
     > Library adalah kumpulan kode atau fungsi yang telah ditulis sebelumnya dan dapat digunakan oleh program atau aplikasi lain. Tujuan utama dari library adalah menyediakan fungsionalitas yang dapat digunakan kembali agar pengembang tidak perlu menulis ulang kode yang sering digunakan. Library membantu mempercepat pengembangan perangkat lunak dengan menyediakan solusi siap pakai untuk tugas umum atau kompleks.
 - **Tutorial Laravel Library:**
     > https://www.youtube.com/watch?v=qe91wL4BY-Q
-    - Nah Sebagai contoh disini saya akan memperkenalkan library yang dimiliki laravel apa saja
-    1. Eloquent ORM:
-        - Eloquent adalah ORM (Object-Relational Mapping) yang terintegrasi dengan Laravel. Ini menyederhanakan interaksi dengan basis data dengan menggunakan model dan query builder.
-    2. Laravel Mix:
-       - Laravel Mix menyederhanakan manajemen aset dan kompilasi sumber daya seperti JavaScript, CSS, dan gambar. Ini menggunakan Webpack di balik layar.
-    3. Laravel Sanctum:
-       - Laravel Sanctum menyediakan autentikasi API menggunakan token berbasis cookie. Ini sangat berguna untuk aplikasi web yang membutuhkan otentikasi API dan otentikasi tradisional.
-    4. Laravel Livewire:
-       - Livewire adalah library yang memungkinkan pembuatan antarmuka pengguna yang interaktif menggunakan komponen PHP tanpa menulis JavaScript.
-    5. Laravel Telescope:
-       - Laravel Telescope adalah alat debug dan profil kinerja yang kuat untuk aplikasi Laravel. Ini memberikan wawasan mendalam ke dalam aktivitas aplikasi dan permintaan HTTP.
-    6. Laravel Passport:
-       - Laravel Passport menyediakan alat untuk mengimplementasikan OAuth2 server dengan mudah, memungkinkan otentikasi API.
+- Nah Sebagai contoh disini saya akan memperkenalkan library yang dimiliki laravel apa saja
+1. Eloquent ORM:
+   - Eloquent adalah ORM (Object-Relational Mapping) yang terintegrasi dengan Laravel. Ini menyederhanakan interaksi dengan basis data dengan menggunakan model dan query builder.
+2. Laravel Mix:
+   - Laravel Mix menyederhanakan manajemen aset dan kompilasi sumber daya seperti JavaScript, CSS, dan gambar. Ini menggunakan Webpack di balik layar.
+3. Laravel Sanctum:
+   - Laravel Sanctum menyediakan autentikasi API menggunakan token berbasis cookie. Ini sangat berguna untuk aplikasi web yang membutuhkan otentikasi API dan otentikasi tradisional.
+4. Laravel Livewire:
+   - Livewire adalah library yang memungkinkan pembuatan antarmuka pengguna yang interaktif menggunakan komponen PHP tanpa menulis JavaScript.
+5. Laravel Telescope:
+   - Laravel Telescope adalah alat debug dan profil kinerja yang kuat untuk aplikasi Laravel. Ini memberikan wawasan mendalam ke dalam aktivitas aplikasi dan permintaan HTTP.
+6. Laravel Passport:
+   - Laravel Passport menyediakan alat untuk mengimplementasikan OAuth2 server dengan mudah, memungkinkan otentikasi API.
 
 Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
 
