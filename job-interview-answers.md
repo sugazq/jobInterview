@@ -226,8 +226,10 @@ flowchart TD
     > Visual Studio Code (VSCode) adalah sebuah editor kode sumber yang ringan, cepat, dan gratis yang dikembangkan oleh Microsoft. Meskipun dikenal dengan dukungan terbaik untuk pengembangan web, VSCode juga dapat digunakan untuk berbagai bahasa pemrograman lainnya. Ini memiliki ekosistem ekstensi yang luas yang memungkinkan pengguna menyesuaikan dan memperluas fungsionalitas sesuai kebutuhan mereka.
 - **Cara Install Visual Code Studio**
     > Pertama, kunjungi laman download Visual Code Studio. Lalu, pilih installer sesuai platform yang Anda gunakan. Sebagai contoh, kami akan mengunduh installer untuk Windows.![download-visual-code-studio-768x414](https://github.com/sugazq/jobInterview/assets/115863742/69eb7a1d-2a75-46f7-808a-a15175f4ee45)
-    >
-- Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya:
+    > Selanjutnya, ikuti instruksi yang muncul di layar. Jika melihat tampilan berikut, artinya instalasi Visual Studio berhasil. Kemudian, klik Finish untuk mengakhiri proses instalasi.![install-visual-code-studio](https://github.com/sugazq/jobInterview/assets/115863742/a6ac0a17-2cd6-464f-8b64-2e90219c967c)
+- **Tutorial VScode**
+    > :https://www.youtube.com/watch?v=BvFT3H-QqbM
+- Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya:https://www.youtube.com/watch?v=BvFT3H-QqbM
     - Ctrl + Shift + P: menampilkan Command Palette
     - Ctrl + P: membuka file.
     - Ctrl + Shift + N: membuat Window baru. 
@@ -244,7 +246,15 @@ flowchart TD
     - Ctrl + N: membuat file baru. 
     - Ctrl + O: membuka file baru.
     - Ctrl + S: simpan. 
-    - Ctrl + F4: tutup aplikasi. 
+    - Ctrl + F4: tutup aplikasi.
+   
+### Library
+![download](https://github.com/sugazq/jobInterview/assets/115863742/3507eb49-a19a-4d80-b52f-14df35a156d9)
+- **Penjelasan Singkat:**
+    > Library adalah kumpulan kode atau fungsi yang telah ditulis sebelumnya dan dapat digunakan oleh program atau aplikasi lain. Tujuan utama dari library adalah menyediakan fungsionalitas yang dapat digunakan kembali agar pengembang tidak perlu menulis ulang kode yang sering digunakan. Library membantu mempercepat pengembangan perangkat lunak dengan menyediakan solusi siap pakai untuk tugas umum atau kompleks.
+    > Nah Sebagai contoh disini saya akan memperkenalkan library yang dimiliki laravel apa saja
+    > 1. Eloquent ORM:
+    >    - Eloquent adalah ORM (Object-Relational Mapping) yang terintegrasi dengan Laravel. Ini menyederhanakan interaksi dengan basis data dengan menggunakan model dan query builder.
 
 Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
 
