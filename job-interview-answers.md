@@ -80,6 +80,50 @@ pengguna | opsi untuk membatalkan pesanan, | saya memiliki fleksibilitas jika pe
 pengguna | opsi pengiriman internasional, | ssaya bisa membeli produk dari luar negeri. | ⭐⭐⭐⭐
 pengguna | melihat tutorial penggunaan produk, | saya dapat memaksimalkan manfaat produk yang saya beli. | ⭐⭐⭐⭐
 pengguna | melihat tutorial penggunaan produk, | saya dapat memaksimalkan manfaat produk yang saya beli. | ⭐⭐⭐⭐
+penjual | memiliki dasbor yang intuitif | saya dapat dengan mudah mengelola dan memantau produk saya. | ⭐⭐⭐⭐⭐
+penjual | menambahkan produk baru,| saya dapat memperbarui katalog toko saya secara teratur. | ⭐⭐⭐⭐⭐
+penjual | memperbarui stok produk secara otomatis, | saya tidak kehabisan stok secara tidak terduga. | ⭐⭐⭐⭐⭐
+penjual | melihat analisis penjualan, | saya dapat membuat keputusan berdasarkan data yang akurat. | ⭐⭐⭐⭐⭐
+penjual | mengelola pesanan pelanggan dengan mudah, | saya dapat memberikan layanan yang efisien. | ⭐⭐⭐⭐⭐
+penjual | memberikan diskon atau promo, | saya dapat menarik lebih banyak pelanggan. | ⭐⭐⭐⭐⭐
+penjual | mendapatkan notifikasi pesanan baru, | saya dapat mengatasi pesanan dengan cepat. | ⭐⭐⭐⭐⭐
+penjual | mengelola ulasan produk, | saya dapat meningkatkan kualitas produk dan layanan. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi pengiriman yang fleksibel, | aya dapat memenuhi kebutuhan beragam pelanggan. | ⭐⭐⭐⭐⭐
+penjual | memberikan informasi produk yang jelas, | pelanggan dapat membuat keputusan pembelian dengan percaya diri. | ⭐⭐⭐⭐⭐
+penjual | mendapatkan umpan balik dari pelanggan, | saya dapat terus meningkatkan kualitas layanan. | ⭐⭐⭐⭐⭐
+penjual | menyusun promo atau penawaran khusus, | saya dapat meningkatkan daya tarik toko saya. | ⭐⭐⭐⭐⭐
+penjual | menyediakan fitur langganan produk, | pelanggan dapat berlangganan produk secara reguler. | ⭐⭐⭐⭐⭐
+penjual | menyediakan panduan penggunaan produk, | pelanggan dapat memaksimalkan manfaat produk. | ⭐⭐⭐⭐⭐
+penjual | memberikan notifikasi diskon atau penawaran kepada pelanggan setia, | saya dapat mempertahankan pelanggan yang loyal. | ⭐⭐⭐⭐⭐
+penjual | memasarkan toko saya secara online, | dapat menjangkau pelanggan potensial lebih luas. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi pembelian dalam jumlah besar (grosir), | dapat menarik pelanggan bisnis atau pembelian dalam jumlah besar. | ⭐⭐⭐⭐⭐
+penjual | memudahkan pelanggan menghubungi layanan pelanggan, | pertanyaan atau masalah dapat segera diatasi. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi pengembalian barang, | pelanggan merasa aman dalam melakukan pembelian. | ⭐⭐⭐⭐⭐
+penjual | memberikan akses ke promo atau penawaran eksklusif bagi pelanggan tertentu, | dapat meningkatkan loyalitas pelanggan. | ⭐⭐⭐⭐⭐
+penjual | memantau performa iklan atau promosi, | saya dapat menilai efektivitas kampanye pemasaran. | ⭐⭐⭐⭐⭐
+penjual | memberikan pemberitahuan jika stok produk hampir habis, | saya dapat mengelola stok dengan lebih baik. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi pengiriman gratis, | apat menarik lebih banyak pelanggan. | ⭐⭐⭐⭐⭐
+penjual | memberikan opsi pre-order untuk produk yang akan datang, | pelanggan dapat memesan produk terbaru sebelum dirilis. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi untuk mengatur jam operasional toko online, | pelanggan tahu kapan dapat melakukan pembelian atau menghubungi toko. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi penukaran atau pengembalian dana, | pelanggan merasa aman dalam melakukan transaksi. | ⭐⭐⭐⭐⭐
+penjual | menyediakan panduan ukuran atau spesifikasi produk, | pelanggan dapat membuat keputusan pembelian yang lebih tepat. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi langganan newsletter, | dapat membangun hubungan lebih lanjut dengan pelanggan. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi pre-order dengan pembayaran paruh atau penuh, | pelanggan dapat memesan produk eksklusif. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi program loyalitas, | dapat mempertahankan pelanggan setia. | ⭐⭐⭐⭐⭐
+penjual | melihat statistik penjualan produk, | saya dapat mengevaluasi performa bisnis saya. | ⭐⭐⭐⭐⭐
+penjual | memberikan opsi pengiriman internasional, | dapat menjangkau pasar global. | ⭐⭐⭐⭐
+penjual | melihat statistik kunjungan ke toko online saya, | saya dapat menilai efektivitas kampanye pemasaran. | ⭐⭐⭐⭐⭐
+penjual | opsi untuk mengatur stok minimum, | saya dapat meminimalkan risiko kehabisan stok. | ⭐⭐⭐⭐
+penjual | mendapatkan informasi produk yang paling diminati, | saya bisa menyesuaikan stok dan promosi. | ⭐⭐⭐⭐
+penjual | menyusun kategori produk dengan jelas, | pembeli dapat dengan mudah menavigasi toko saya. | ⭐⭐⭐⭐
+penjual | opsi untuk menonaktifkan ulasan produk, | saya dapat mengontrol informasi yang ditampilkan. | ⭐⭐⭐⭐
+penjual | opsi untuk menyembunyikan stok produk, | pesaing tidak dapat melihat persediaan saya. | ⭐⭐⭐⭐
+penjual | menyediakan garansi atau kebijakan pengembalian, | spembeli merasa lebih percaya diri dalam berbelanja. | ⭐⭐⭐⭐
+penjual | mengelola daftar pelanggan yang terdaftar, | dapat melakukan promosi khusus kepada mereka. | ⭐⭐⭐⭐
+penjual | opsi untuk menyusun penawaran bundel produk, | dapat mendorong pembelian lebih banyak. | ⭐⭐⭐⭐
+penjual | opsi untuk menyembunyikan produk sementara, | dapat melakukan perubahan atau penyesuaian. | ⭐⭐⭐⭐⭐
+penjual | memberikan opsi pembayaran dengan sistem cicilan, | pembeli dapat membeli produk dengan lebih mudah. | ⭐⭐⭐⭐⭐
+penjual | menyediakan opsi pemesanan langganan, | pelanggan dapat berlangganan produk secara berkala. | ⭐⭐⭐⭐⭐
 
 
 # 3. Struktur Data
