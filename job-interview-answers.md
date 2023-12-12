@@ -124,6 +124,29 @@ penjual | opsi untuk menyusun penawaran bundel produk, | dapat mendorong pembeli
 penjual | opsi untuk menyembunyikan produk sementara, | dapat melakukan perubahan atau penyesuaian. | ⭐⭐⭐⭐⭐
 penjual | memberikan opsi pembayaran dengan sistem cicilan, | pembeli dapat membeli produk dengan lebih mudah. | ⭐⭐⭐⭐⭐
 penjual | menyediakan opsi pemesanan langganan, | pelanggan dapat berlangganan produk secara berkala. | ⭐⭐⭐⭐⭐
+admin | memiliki dasbor analitik, | saya dapat melihat performa keseluruhan toko dengan cepat. | ⭐⭐⭐⭐⭐
+admin | dapat mengelola produk dengan mudah, | saya bisa menambah, menghapus, atau memperbarui inventaris toko. | ⭐⭐⭐⭐⭐
+admin | memiliki sistem manajemen stok otomatis, | saya dapat melihat performa keseluruhan toko dengan cepat. | ⭐⭐⭐⭐⭐
+admin | dapat melihat laporan penjualan,| saya dapat menganalisis kinerja platform dan membuat keputusan berdasarkan data. | ⭐⭐⭐⭐⭐
+admin | memiliki sistem manajemen pesanan, | saya bisa memantau dan mengelola status pesanan dengan efisien. | ⭐⭐⭐⭐⭐
+admin | dapat mengelola informasi penjual, | saya dapat memberikan dukungan yang lebih baik dan memahami preferensi penjual. | ⭐⭐⭐⭐⭐
+admin | memonitor ulasan produk, | saya dapat memahami umpan balik pengguna dan meresponsnya. | ⭐⭐⭐⭐⭐
+admin | dapat mengelola promosi dan diskon platform, | saya bisa meningkatkan daya tarik platform. | ⭐⭐⭐⭐⭐
+admin | memiliki sistem manajemen pengguna, | saya dapat mengatur peran dan izin dengan mudah. | ⭐⭐⭐⭐⭐
+admin | memiliki fungsi pencarian dan filter, | saya bisa dengan cepat menemukan informasi penting di dalam sistem. | ⭐⭐⭐⭐⭐
+admin | memiliki sistem notifikasi, | saya bisa mendapatkan pemberitahuan tentang peristiwa penting dalam platform. | ⭐⭐⭐⭐⭐
+admin | dapat melihat aktivitas pengguna, | saya bisa memantau interaksi di platform. | ⭐⭐⭐⭐
+admin | memiliki sistem manajemen kategori produk, | saya bisa mengorganisir produk dengan baik. | ⭐⭐⭐⭐
+admin | dapat mengelola informasi platform, | saya bisa memperbarui detail platform dengan mudah. | ⭐⭐⭐⭐
+admin | memiliki fitur pencadangan data otomatis, | saya bisa melindungi data penting platform.
+ | ⭐⭐⭐⭐
+admin | dapat mengatur ulang kata sandi pengguna platform, | saya bisa membantu pengguna yang lupa kata sandi. | ⭐⭐⭐
+admin | menyediakan dukungan pelanggan langsung, | saya bisa memberikan bantuan segera kepada pengguna. | ⭐⭐⭐
+admin | memiliki sistem manajemen retur, | saya bisa mengelola proses pengembalian produk. | ⭐⭐⭐
+admin | dapat melihat riwayat aktivitas admin,, | saya bisa melacak perubahan yang dilakukan dalam sistem. | ⭐⭐⭐
+admin | memiliki sistem manajemen promosi ulang tahun pengguna, | saya bisa merayakan hari istimewa bersama pengguna. | ⭐⭐⭐
+admin | dapat melihat statistik kunjungan platform, | saya dapat memahami perilaku pengunjung dan meningkatkan pengalaman mereka. | ⭐⭐⭐
+admin | dapat mengelola opsi pembayaran internasional, | splatform dapat menjangkau pengguna global. | ⭐⭐⭐
 
 
 # 3. Struktur Data
