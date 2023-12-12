@@ -252,7 +252,7 @@ flowchart TD
 ![download](https://github.com/sugazq/jobInterview/assets/115863742/3507eb49-a19a-4d80-b52f-14df35a156d9)
 - **Penjelasan Singkat:**
     > Library adalah kumpulan kode atau fungsi yang telah ditulis sebelumnya dan dapat digunakan oleh program atau aplikasi lain. Tujuan utama dari library adalah menyediakan fungsionalitas yang dapat digunakan kembali agar pengembang tidak perlu menulis ulang kode yang sering digunakan. Library membantu mempercepat pengembangan perangkat lunak dengan menyediakan solusi siap pakai untuk tugas umum atau kompleks.
-    > Nah Sebagai contoh disini saya akan memperkenalkan library yang dimiliki laravel apa saja
+    - Nah Sebagai contoh disini saya akan memperkenalkan library yang dimiliki laravel apa saja
        1. Eloquent ORM:
           - Eloquent adalah ORM (Object-Relational Mapping) yang terintegrasi dengan Laravel. Ini menyederhanakan interaksi dengan basis data dengan menggunakan model dan query builder.
 
