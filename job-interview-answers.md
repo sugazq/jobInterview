@@ -149,6 +149,7 @@ admin | dapat melihat statistik kunjungan platform, | saya dapat memahami perila
 admin | dapat mengelola opsi pembayaran internasional, | splatform dapat menjangkau pengguna global. | ⭐⭐⭐
 
 
+
 # 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
