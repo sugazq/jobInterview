@@ -226,8 +226,7 @@ flowchart TD
     > Visual Studio Code (VSCode) adalah sebuah editor kode sumber yang ringan, cepat, dan gratis yang dikembangkan oleh Microsoft. Meskipun dikenal dengan dukungan terbaik untuk pengembangan web, VSCode juga dapat digunakan untuk berbagai bahasa pemrograman lainnya. Ini memiliki ekosistem ekstensi yang luas yang memungkinkan pengguna menyesuaikan dan memperluas fungsionalitas sesuai kebutuhan mereka.
 - **Cara Penggunaan:**
     >
-    > Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya:
-- Ctrl + Shift + P: menampilkan Command Palette
+    > Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya: - Ctrl + Shift + P: menampilkan Command Palette
 - Ctrl + P: membuka file.
 - Ctrl + Shift + N: membuat Window baru. 
 - Ctrl + Shift + W: menutup Window.
@@ -244,6 +243,7 @@ flowchart TD
 - Ctrl + O: membuka file baru.
 - Ctrl + S: simpan. 
 - Ctrl + F4: tutup aplikasi. 
+
 Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
 
 # 6. Desain User Experience dan User Interface
