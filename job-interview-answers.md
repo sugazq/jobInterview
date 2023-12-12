@@ -51,6 +51,35 @@ pengguna | menghapus produk dari keranjang | bisa  diganti dengan produk lain da
 pengguna | melihat ringkasan pesanan | sebelum mengkonfirmasi pembelian bisa dilakukan cek ulang | ⭐⭐⭐
 pengguna | mendapatkan notif pesanan | bisa mengetahui pesanan sudah diproses atau belum | ⭐⭐⭐
 pengguna | melihat reveiw produk | bisa melihat feedback dari yang sudah pernah pesan | ⭐⭐⭐
+pengguna | mendapatkan rekomendasi produk | saya dapat menemukan produk menarik atau relevan dengan preferensi saya. | ⭐⭐⭐⭐
+pengguna | menyimpan produk favorit | saya dapat dengan cepat menemukannya di kunjungan berikutnya. | ⭐⭐⭐⭐
+pengguna | melacak status pengiriman | saya bisa memantau kapan pesanan saya akan tiba. | ⭐⭐⭐⭐
+pengguna | memberikan feedback produk | saya dapat berpartisipasi dalam meningkatkan kualitas produk | ⭐⭐⭐⭐
+pengguna | mendapatkan informasi promo atau diskon, | saya bisa memanfaatkan penawaran khusus. | ⭐⭐⭐⭐
+pengguna | opsi pembayaran yang beragam, | saya memiliki fleksibilitas dalam pembayaran. | ⭐⭐⭐⭐
+pengguna | mengelola preferensi akun, | saya dapat mengatur detail akun dan preferensi pribadi saya. | ⭐⭐⭐⭐
+pengguna | melihat ulasan produk langsung dari pelanggan, | saya mendapatkan gambaran yang lebih akurat tentang kualitas produk. | ⭐⭐⭐⭐
+pengguna | mendapatkan notifikasi tentang produk yang sedang diskon, | saya dapat segera memanfaatkan penawaran tersebut. | ⭐⭐⭐⭐
+pengguna | mengatur ulang kata sandi dengan mudah, | saya dapat menjaga keamanan akun saya. | ⭐⭐⭐⭐
+pengguna | menyimpan beberapa alamat pengiriman, | saya memiliki opsi untuk mengirimkan pesanan ke berbagai lokasi. | ⭐⭐⭐⭐
+pengguna | melihat estimasi ongkos kirim sebelum pembelian, | saya bisa menyesuaikan pesanan saya dengan anggaran. | ⭐⭐⭐⭐
+pengguna | opsi pengiriman yang beragam, | saya bisa memilih metode pengiriman yang paling sesuai. | ⭐⭐⭐⭐
+pengguna | memberikan ulasan setelah menerima produk, | saya dapat berbagi pengalaman dengan pelanggan lain. | ⭐⭐⭐⭐
+pengguna | kemudahan dalam menghubungi layanan pelanggan, | saya dapat dengan cepat memperoleh bantuan jika diperlukan. | ⭐⭐⭐⭐
+pengguna | opsi pengembalian produk, | saya bisa dengan mudah mengembalikan produk yang tidak sesuai. | ⭐⭐⭐⭐
+pengguna | opsi pemberitahuan jika produk sedang habis, | saya tidak kecewa setelah memilih produk yang tidak tersedia. | ⭐⭐⭐⭐
+pengguna | melihat tutorial penggunaan produk, | saya dapat memaksimalkan manfaat produk yang saya beli. | ⭐⭐⭐⭐
+pengguna | opsi untuk mendapatkan faktur digital, | saya dapat menyimpan catatan pembelian dengan mudah. | ⭐⭐⭐⭐
+pengguna | tautan langsung ke produk terkait, |  saya dapat dengan cepat menelusuri produk yang serupa. | ⭐⭐⭐⭐
+pengguna | menyimpan riwayat pembelian, | saya dapat melacak produk yang pernah saya beli sebelumnya. | ⭐⭐⭐⭐
+pengguna | melihat rating toko atau penjual, | saya dapat membuat keputusan pembelian yang lebih informasional. | ⭐⭐⭐⭐
+pengguna | melihat tutorial penggunaan produk, | saya dapat memaksimalkan manfaat produk yang saya beli. | ⭐⭐⭐⭐
+pengguna | mendapatkan notifikasi ketika produk yang diinginkan tersedia, | saya tidak melewatkan kesempatan untuk membeli. | ⭐⭐⭐⭐
+pengguna | opsi untuk mengatur waktu pengiriman, | saya dapat menerima pesanan pada waktu yang sesuai bagi saya. | ⭐⭐⭐⭐
+pengguna | opsi untuk membatalkan pesanan, | saya memiliki fleksibilitas jika perlu mengubah keputusan pembelian. | ⭐⭐⭐⭐
+pengguna | opsi pengiriman internasional, | ssaya bisa membeli produk dari luar negeri. | ⭐⭐⭐⭐
+pengguna | melihat tutorial penggunaan produk, | saya dapat memaksimalkan manfaat produk yang saya beli. | ⭐⭐⭐⭐
+pengguna | melihat tutorial penggunaan produk, | saya dapat memaksimalkan manfaat produk yang saya beli. | ⭐⭐⭐⭐
 
 
 # 3. Struktur Data
