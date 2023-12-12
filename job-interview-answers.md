@@ -224,9 +224,10 @@ flowchart TD
 ![images](https://github.com/sugazq/jobInterview/assets/115863742/ee274653-2dbf-41ef-8aec-317cf5516cae)
 - **Penjelasan Singkat:**
     > Visual Studio Code (VSCode) adalah sebuah editor kode sumber yang ringan, cepat, dan gratis yang dikembangkan oleh Microsoft. Meskipun dikenal dengan dukungan terbaik untuk pengembangan web, VSCode juga dapat digunakan untuk berbagai bahasa pemrograman lainnya. Ini memiliki ekosistem ekstensi yang luas yang memungkinkan pengguna menyesuaikan dan memperluas fungsionalitas sesuai kebutuhan mereka.
-- **Cara Penggunaan:**
+- **Cara Install Visual Code Studio**
+    > Pertama, kunjungi laman download Visual Code Studio. Lalu, pilih installer sesuai platform yang Anda gunakan. Sebagai contoh, kami akan mengunduh installer untuk Windows.![download-visual-code-studio-768x414](https://github.com/sugazq/jobInterview/assets/115863742/69eb7a1d-2a75-46f7-808a-a15175f4ee45)
     >
-    > Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya:
+- Ada beberapa shortcut keyboard yang bisa dipakai agar kamu lebih mudah ketika menggunakan aplikasi Visual Studio Code di Windows. Berikut adalah daftarnya:
     - Ctrl + Shift + P: menampilkan Command Palette
     - Ctrl + P: membuka file.
     - Ctrl + Shift + N: membuat Window baru. 
