@@ -220,6 +220,10 @@ flowchart TD
 
 # 5. Teknologi, Library, dan Framework
 
+### VScode
+![images](https://github.com/sugazq/jobInterview/assets/115863742/ee274653-2dbf-41ef-8aec-317cf5516cae)
+
+
 Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
 
 # 6. Desain User Experience dan User Interface
