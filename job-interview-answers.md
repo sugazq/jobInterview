@@ -138,8 +138,7 @@ admin | memiliki sistem notifikasi, | saya bisa mendapatkan pemberitahuan tentan
 admin | dapat melihat aktivitas pengguna, | saya bisa memantau interaksi di platform. | ⭐⭐⭐⭐
 admin | memiliki sistem manajemen kategori produk, | saya bisa mengorganisir produk dengan baik. | ⭐⭐⭐⭐
 admin | dapat mengelola informasi platform, | saya bisa memperbarui detail platform dengan mudah. | ⭐⭐⭐⭐
-admin | memiliki fitur pencadangan data otomatis, | saya bisa melindungi data penting platform.
- | ⭐⭐⭐⭐
+admin | memiliki fitur pencadangan data otomatis, | saya bisa melindungi data penting platform. | ⭐⭐⭐⭐
 admin | dapat mengatur ulang kata sandi pengguna platform, | saya bisa membantu pengguna yang lupa kata sandi. | ⭐⭐⭐
 admin | menyediakan dukungan pelanggan langsung, | saya bisa memberikan bantuan segera kepada pengguna. | ⭐⭐⭐
 admin | memiliki sistem manajemen retur, | saya bisa mengelola proses pengembalian produk. | ⭐⭐⭐
