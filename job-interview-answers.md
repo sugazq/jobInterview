@@ -268,8 +268,25 @@ flowchart TD
 6. Laravel Passport:
    - Laravel Passport menyediakan alat untuk mengimplementasikan OAuth2 server dengan mudah, memungkinkan otentikasi API.
 
-Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
-
+### Framework
+![download](https://github.com/sugazq/jobInterview/assets/115863742/b0360a95-ecf0-4eff-ae00-e9ff297cdd85)
+- **Penjelasan Singkat:**
+    > Framework adalah kerangka kerja pengembangan perangkat lunak yang menyediakan struktur dan alat bantu untuk mempermudah dan mempercepat proses pengembangan aplikasi. Framework menyediakan aturan dan konvensi yang membantu pengembang dalam menyusun kode mereka dengan cara yang terstruktur dan mudah dipelihara. Tujuan utama framework adalah untuk mengurangi tugas-tugas umum, sehingga pengembang dapat fokus pada logika bisnis khusus aplikasi mereka.
+- **Vidio Tutorial Penggnaan Laravel:**
+    > https://www.youtube.com/watch?v=ClMX6TXvh_o
+- **Install laravel:**
+    > **Masuk Command Prompt**
+        > Caranya adalah klik Win+R lalu ketik cmd dan klik OK![image](https://github.com/sugazq/jobInterview/assets/115863742/42491686-9a98-4030-8dde-5bf8fb2a4c58)
+    > **Masuk ke Folder XAMPP**
+        > Sebelum melakukan instalasi Laravel, arahkan Command Prompt atau terminal menuju direktori file server.  Lokasi file server pada XAMPP secara default berada pada direktori xampp/htdocs.  Masukan perintah ini pada jendela Command Prompt untuk masuk ke direktori htdocs.![image](https://github.com/sugazq/jobInterview/assets/115863742/24fc2d65-5241-4670-904c-3846004f185d)
+    > **Mulai Proses Install Laravel**
+        >  Selanjutnya jika sudah masuk direktori htdocs, Anda harus membuat request  untuk mengambil (serta menginstall) file Laravel yang telah disediakan dalam repositori Github. Gunakan perintah ini untuk melakukan request: ```composer create-project --prefer-dist laravel/laravel nama_projectmu```.ika perintah telah berhasil dimasukkan,  Composer akan mulai melakukan proses pengambilan data serta instalasi Laravel ke dalam direktori yang telah Anda tentukan. Pastikan bahwa koneksi internet dalam keadaan stabil agar tidak terjadi gangguan pada saat proses pengambilan data Laravel.![image](https://github.com/sugazq/jobInterview/assets/115863742/bb7d4ccc-a52b-4b51-87eb-b9dc7ace24e0)
+    > **Cek Instalasi Laravel di Web Browser**
+        > Setelah proses download file Laravel selesai, nantinya akan ada folder baru pada direktori file server dengan nama sesuai nama project yang telah Anda tentukan sebelumnya pada folder /xampp/htdocs.![image](https://github.com/sugazq/jobInterview/assets/115863742/3a0c8cc8-3330-42b8-bb88-2b13070a9743).
+        >  Untuk memastikan bahwa Laravel sukses terinstall dan siap untuk digunakan, arahkan Command Prompt atau Terminal menuju direktori yang telah Anda buat sebelumnya. Lalu, masukkan perintah berikut ke dalam Command Prompt atau Terminal: ```php artisan serve```![image](https://github.com/sugazq/jobInterview/assets/115863742/5cea8ed0-1f56-43f7-add9-ce3e0a61be7a)
+        > Jika muncul tulisan Laravel development server started pada Command Prompt atau Terminal, langkah selanjutnya adalah membuka link yang telah disediakan oleh Laravel. Secara default, Anda akan diarahkan menuju alamat server,yaitu 127.0.0.1:8000. Nantinya, akan muncul  tampilan homepage dengan tulisan Laravel di bagian tengah seperti pada gambar di bawah ini:![image](https://github.com/sugazq/jobInterview/assets/115863742/db80cfb1-fd91-406a-91e6-f7858dad712f)
+    > **Selesai**
+ 
 # 6. Desain User Experience dan User Interface
 
 ## Design UI & UX Menggunakan Figma
