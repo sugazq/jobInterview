@@ -222,6 +222,9 @@ flowchart TD
 
 ### VScode
 ![images](https://github.com/sugazq/jobInterview/assets/115863742/ee274653-2dbf-41ef-8aec-317cf5516cae)
+- **Landing Page**
+    > Visual Studio Code (VSCode) adalah sebuah editor kode sumber yang ringan, cepat, dan gratis yang dikembangkan oleh Microsoft. Meskipun dikenal dengan dukungan terbaik untuk pengembangan web, VSCode juga dapat digunakan untuk berbagai bahasa pemrograman lainnya. Ini memiliki ekosistem ekstensi yang luas yang memungkinkan pengguna menyesuaikan dan memperluas fungsionalitas sesuai kebutuhan mereka.
+
 Untuk teknologi pendukung saya menggunakan Visual Studio Code Sedangkan library memakai yang ada di laravel untuk Framework saya menggunakan  Laravel
 
 # 6. Desain User Experience dan User Interface
