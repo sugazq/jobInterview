@@ -305,12 +305,11 @@ flowchart TD
 
 
 ## 7. Demonstrasi Video
-
-Link youtube nya
+- **https://youtu.be/ggCZYL6i6TI?si=tB5tJH1Z2QeIiaQM**
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+- **https://youtu.be/ggCZYL6i6TI?si=uIRN5zU4vP-6mv1B**
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
